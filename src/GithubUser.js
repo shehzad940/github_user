@@ -48,7 +48,7 @@ class GithubUser extends Component {
                                 className="form-control" 
                                 autoComplete="off"
                             />
-                            <button type="sumit" className="btn btn-success mt-sm">Get</button>
+                            <button type="submit" className="btn btn-success mt-sm">Get</button>
                         </form>
                     </div>
                 </div>
